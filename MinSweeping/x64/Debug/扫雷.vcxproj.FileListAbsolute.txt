@@ -1,0 +1,2 @@
+R:\Study\c++\Vsproject\扫雷\x64\Debug\扫雷.exe
+R:\Study\c++\Vsproject\扫雷\x64\Debug\扫雷.pdb
